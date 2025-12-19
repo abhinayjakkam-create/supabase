@@ -1,0 +1,6 @@
+streamlit
+qrcode
+gtts
+uuid
+pandas
+supabase
